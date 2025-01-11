@@ -25,7 +25,7 @@ This repository contains the work I completed during my AWS virtual internship. 
 - **Cloud Backup**: Leveraged S3 for storing database snapshots and application backups.
 - **DNS Management**: Used Route 53 to route traffic dynamically and improve application reliability.
 
-## 🛠️ What I Built
+## 🛠️ What I Built 
 - **Hosting Architecture**: Designed a solution to host APIs and web applications using AWS Elastic Beanstalk.
 - **CI/CD Pipeline**: Set up an automated deployment pipeline using CodePipeline integrated with Elastic Beanstalk.
 - **Redundant Systems**: Implemented multi-availability zone setups for increased application availability.
