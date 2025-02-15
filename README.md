@@ -1,4 +1,4 @@
-# AWS Internship Repository
+# AWS Virtual Job Simulation
 
 This repository contains the work I completed during my AWS virtual internship. It showcases my journey in designing and implementing scalable, reliable, and cost-effective cloud architecture using AWS services.
 
