@@ -1,40 +1,40 @@
-# AWS Virtual Job Simulation
+# AWS Virtual Job Simulation  
 
-This repository contains the work I completed during my AWS virtual internship. It showcases my journey in designing and implementing scalable, reliable, and cost-effective cloud architecture using AWS services.
+This repository contains the work I completed during my AWS virtual internship. It showcases my journey in designing and implementing scalable, reliable, and cost-effective cloud architecture using AWS services.  
 
-## 🌟 What I Worked On
-- Designed a scalable hosting architecture for a startup using AWS Elastic Beanstalk.
-- Built a robust CI/CD pipeline using CodePipeline to enable zero-downtime deployments.
-- Integrated multiple AWS services to enhance application performance, scalability, and redundancy.
-- Addressed real-world challenges like load balancing, database backups, and application scaling.
+## 🌟 What I Worked On  
+- Designed a scalable hosting architecture for a startup using AWS Elastic Beanstalk.  
+- Integrated multiple AWS services to enhance application performance, scalability, and redundancy.  
+- Addressed real-world challenges like load balancing, database backups, and application scaling.  
 
-## 📚 What I Learned
-- **AWS Fundamentals**: Gained hands-on experience with services like Elastic Beanstalk, EC2, RDS, S3, Route 53, and Elastic Load Balancer.
-- **Cloud Architecture Design**: Developed a strong understanding of designing fault-tolerant and scalable cloud solutions.
-- **CI/CD Best Practices**: Learned to implement blue-green deployment strategies for seamless application updates.
-- **Cost Optimization**: Explored techniques to optimize cloud resource usage and manage costs effectively.
+## 📚 What I Learned  
+- **AWS Basics**:  
+  - Learned about AWS, its types, services it provides, its architectural diagram, and its model.  
 
-## 🛠️ Technologies Used
-- **AWS Services**: Elastic Beanstalk, EC2, RDS (PostgreSQL), S3, Route 53, Elastic Load Balancer, CodePipeline.
-- **Programming and Scripting**: Python for application integration, Bash for automating tasks.
-- **Version Control**: GitHub for managing and showcasing project work.
+- **Technologies Learned**:  
+  - **CodePipeline**: For setting up CI/CD pipelines.  
+  - **Elastic Load Balancing**: To distribute traffic across multiple instances.  
+  - **RDS**: For managing relational databases.  
+  - **EC2**: To provide scalable computing power.  
+  - **S3**: For secure and scalable storage solutions.  
 
-## 🌍 Practical Scenarios
-- **Scalable API and Web Hosting**: Designed an architecture that can handle traffic spikes using auto-scaling EC2 instances and load balancing.
-- **Database Redundancy**: Configured RDS with a failover setup across multiple availability zones for high availability.
-- **Cloud Backup**: Leveraged S3 for storing database snapshots and application backups.
-- **DNS Management**: Used Route 53 to route traffic dynamically and improve application reliability.
+- **Application Executors and Provisioning**:  
+  - **EC2**: Virtual servers in the cloud for scalable computing.  
+  - **Fargate**: Serverless compute engine for containers.  
+  - **Lambda**: For running code without provisioning or managing servers.  
+  - **Lightsail**: Easy-to-use cloud platform for web applications.  
+  - **Elastic Beanstalk**: For deploying and scaling web applications easily.  
 
-## 🛠️ What I Built 
-- **Hosting Architecture**: Designed a solution to host APIs and web applications using AWS Elastic Beanstalk.
-- **CI/CD Pipeline**: Set up an automated deployment pipeline using CodePipeline integrated with Elastic Beanstalk.
-- **Redundant Systems**: Implemented multi-availability zone setups for increased application availability.
-- **Backup Strategy**: Configured a backup system for databases and static assets using S3.
+## 🌍 Practical Scenarios  
+- **Scalable API and Web Hosting**: Designed an architecture to handle traffic spikes using auto-scaling EC2 instances and load balancing.  
+- **Database Redundancy**: Configured RDS with a failover setup across multiple availability zones for high availability.  
+- **Cloud Backup**: Leveraged S3 for storing database snapshots and application backups.  
+- **DNS Management**: Used Route 53 for dynamic traffic routing and improved application reliability.  
 
-## 🚀 Key Takeaways
-This internship gave me real-world exposure to AWS services and best practices in cloud architecture. It enhanced my skills in:
-- Designing for scalability and redundancy.
-- Implementing automation for deployment and backups.
-- Collaborating on cloud-based projects.
+## 🚀 Key Takeaways  
+- Gained real-world exposure to AWS services and best practices in cloud architecture.  
+- Enhanced skills in designing scalable and redundant cloud solutions.  
+- Implemented automation for deployment and backups.  
+- Collaborated on cloud-based projects effectively.  
 
 Feel free to explore the repository to see detailed implementation examples and learnings from this journey!
